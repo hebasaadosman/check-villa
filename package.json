@@ -24,6 +24,7 @@
     "bootstrap": "^5.2.0",
     "bootstrap-icons": "^1.9.1",
     "font-awesome": "^4.7.0",
+    "ng-packagr": "^14.2.0",
     "ngx-bootstrap": "^9.0.0",
     "ngx-bootstrap-icons": "^1.9.1",
     "rxjs": "~7.5.0",
